@@ -1,0 +1,40 @@
+.material-symbols-outlined {
+    color: #4B49AC;
+}
+
+.navbar .navbar-brand-wrapper .brand-logo-mini img {
+    width: calc(85px - 30px);
+}
+
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile img {
+    width: 30px;
+    height: 30px;
+}
+
+.mdi-apple-keyboard-control::before {
+    transform: rotate(180deg);
+}
+
+.theme-color {
+    color: #4B49AC;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+
+    border: 1px solid white !important;
+    background: none !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    margin: 0 8px !important;
+    padding: 0 !important;
+}
+
+.links {
+    color: black;
+    text-decoration: none;
+}
+
+#errorprint {
+    color: red;
+}
